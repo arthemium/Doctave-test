@@ -3,4 +3,4 @@ title: Playground
 
 open_api:
   - spec_file: oas_apivideo.yaml
-    uri_prefix: /api
+    uri_prefix: /reference

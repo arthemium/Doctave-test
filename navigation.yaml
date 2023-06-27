@@ -1,9 +1,6 @@
 ---
 - heading: Getting Started
   items:
-  - label: Start here
-    href: README.md
-  - label: Continue here
-    href: Continue-Here.md
-  - open_api_spec: oas_apivideo.yaml
+  - label: Home
+    href: home.md
 

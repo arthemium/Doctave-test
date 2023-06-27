@@ -3,7 +3,7 @@
 
 # api.video docs home
 
-This is a landing page.
+This is a random page.
 
 ## More
 

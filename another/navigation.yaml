@@ -1,0 +1,5 @@
+---
+- heading: Another Section
+  items:
+    - label: Hello, World
+      href: README.md      # <= Note: link is relative to ./another/

@@ -1,0 +1,13 @@
+tabs:
+  - label: Documentation
+    items: 
+      - label: Guides
+        path: /docs/
+  - label: API Reference
+    items: 
+      - label: API Reference
+        path: /reference/
+  - label: Another         # <= New tab I've added
+    items: 
+      - label: Another
+        path: /another/    # <= All files have to be under /another
